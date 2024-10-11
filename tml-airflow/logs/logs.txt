@@ -10814,3 +10814,4 @@ Already up to date.
 [INFO 2024-10-11_21:16:13] Localfile producing DAG in tml_read_LOCALFILE_step_3_kafka_producetotopic_dag-kasun-tml-project1-b4b4.py
 [INFO 2024-10-11_21:16:16] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-kasun-tml-project1-b4b4.py
 [INFO 2024-10-11_21:16:18] Visualization DAG in tml_system_step_7_kafka_visualization_dag-kasun-tml-project1-b4b4.py
+[INFO 2024-10-11_21:16:25] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-kasun-tml-project1-b4b4.py
