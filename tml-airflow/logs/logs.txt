@@ -10802,3 +10802,4 @@ Already up to date.
 [INFO 2024-10-11_19:37:51] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-kasun-tml-project1-b4b4.py
 [INFO 2024-10-11_19:37:59] RESTAPI producing DAG in tml_read_RESTAPI_step_3_kafka_producetotopic_dag-kasun-tml-project1-b4b4.py
 [INFO 2024-10-11_19:38:02] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-kasun-tml-project1-b4b4.py
+[INFO 2024-10-11_19:38:04] Visualization DAG in tml_system_step_7_kafka_visualization_dag-kasun-tml-project1-b4b4.py
