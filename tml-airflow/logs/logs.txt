@@ -10806,3 +10806,4 @@ Already up to date.
 [INFO 2024-10-11_19:38:09] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-kasun-tml-project1-b4b4.py
 [INFO 2024-10-11_19:38:14] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-kasun-tml-project1-b4b4.py
 [INFO 2024-10-11_21:15:54] Deleting topic iot-raw-data in tml_system_step_2_kafka_createtopic_dag-kasun-tml-project1-b4b4.py
+[INFO 2024-10-11_21:15:56] Deleting topic iot-preprocess in tml_system_step_2_kafka_createtopic_dag-kasun-tml-project1-b4b4.py
