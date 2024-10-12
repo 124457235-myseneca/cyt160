@@ -10855,3 +10855,4 @@ Already up to date.
 [INFO 2024-10-12_17:55:00] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-aaa-kasun-sam-b4b4.py
 [INFO 2024-10-12_17:55:02] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-aaa-kasun-sam-b4b4.py
 [INFO 2024-10-12_17:55:05] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-aaa-kasun-sam-b4b4.py
+[INFO 2024-10-12_17:55:07] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-aaa-kasun-sam-b4b4.py
