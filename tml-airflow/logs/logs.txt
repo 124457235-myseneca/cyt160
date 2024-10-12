@@ -10826,3 +10826,4 @@ Already up to date.
 [INFO 2024-10-12_17:30:09] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-kasun-tml-project1-b4b4.py
 [INFO 2024-10-12_17:30:12] Machine Learning DAG in tml_system_step_5_kafka_machine_learning_dag-kasun-tml-project1-b4b4.py
 [INFO 2024-10-12_17:30:15] Predictions DAG in tml_system_step_6_kafka_predictions_dag-kasun-tml-project1-b4b4.py
+[INFO 2024-10-12_17:30:17] Visualization DAG in tml_system_step_7_kafka_visualization_dag-kasun-tml-project1-b4b4.py
