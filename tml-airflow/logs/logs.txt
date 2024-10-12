@@ -10839,3 +10839,4 @@ Already up to date.
 [INFO 2024-10-12_17:43:22] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-kasun-tml-project1-b4b4.py
 [INFO 2024-10-12_17:43:24] Visualization DAG in tml_system_step_7_kafka_visualization_dag-kasun-tml-project1-b4b4.py
 [INFO 2024-10-12_17:43:31] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-kasun-tml-project1-b4b4.py
+[INFO 2024-10-12_17:43:39] {'name': ['Project with slug "kasun-tml-project1-b4b4" already exists.']}
