@@ -10820,3 +10820,4 @@ Already up to date.
 [INFO 2024-10-12_17:29:48] Deleting topic iot-preprocess in tml_system_step_2_kafka_createtopic_dag-kasun-tml-project1-b4b4.py
 [INFO 2024-10-12_17:29:50] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-kasun-tml-project1-b4b4.py
 [INFO 2024-10-12_17:29:52] Deleting topic ml-data in tml_system_step_2_kafka_createtopic_dag-kasun-tml-project1-b4b4.py
+[INFO 2024-10-12_17:29:55] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-kasun-tml-project1-b4b4.py
