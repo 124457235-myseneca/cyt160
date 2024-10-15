@@ -10873,3 +10873,4 @@ Already up to date.
 [INFO 2024-10-15_03:55:31] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-myfirsttssproject2-3f10.py
 [INFO 2024-10-15_03:55:39] {'name': ['Project with slug "myfirsttssproject2-3f10" already exists.']}
 [INFO 2024-10-15_03:59:01] Deleting topic iot-raw-data in tml_system_step_2_kafka_createtopic_dag-myfirsttssproject2-b4b4.py
+[INFO 2024-10-15_03:59:03] Deleting topic iot-preprocess in tml_system_step_2_kafka_createtopic_dag-myfirsttssproject2-b4b4.py
